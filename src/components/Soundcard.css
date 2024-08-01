@@ -7,7 +7,7 @@
     justify-content: space-between;
     align-items: center;
     border-radius: 20%;
-    background: rgba(255, 255, 255, 0.05);
+    background:#0b0b0b;
   }
 
 .audio_img{
@@ -32,14 +32,14 @@
     width: 100%;
     appearance: none;
     height: 2px;
-    background-color: rgba(255, 255, 255, 0.685);
+    background-color:#fdfdfd;
     border-radius: 10%;
 }
 
 .audio_volume::-webkit-slider-thumb{
     width: 15px;
     height: 15px;
-    background-color: #ebebeb;
+    background-color: #fdfdfd;
     appearance: none;
     border-radius: 100%;
 }

@@ -4,14 +4,15 @@
 } 
 
 body{
-  background: #1e3c72;
-  background: -webkit-linear-gradient(to right, #2a5298, #1e3c72); 
-  background: linear-gradient(to right, #2a5298,#1e3c72);
+  background: #0b0b0b;
+  color: #fdfdfd;
+  /* background: -webkit-linear-gradient(to right, #2a5298, #1e3c72); 
+  background: linear-gradient(to right, #2a5298,#1e3c72); */
 }
 nav{
   margin-bottom: 6rem;
   height: 3.3rem;
-  box-shadow: rgb(0,0,0,0.1) 0px 1px 2px;
+  box-shadow: #fdfdfd 0px 1px 2px;
 }
 
 .lo-go{
@@ -30,9 +31,10 @@ nav{
     margin-top: -5px;
   }
   body{
-     background: #2a5298;
-    background: -webkit-linear-gradient(to right, #2a5298, #244788); 
-    background: linear-gradient(to right, #2a5298,#244788);
+     background: #0b0b0b;
+     color: #fdfdfd;
+    /* background: -webkit-linear-gradient(to right, #2a5298, #244788); 
+    background: linear-gradient(to right, #2a5298,#244788); */
   }
   .header{
     font-size: 14px;
