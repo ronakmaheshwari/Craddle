@@ -19,10 +19,10 @@ export default function About() {
         <div className='about-dev'>
            <span className='text-3xl mt-5'>Connect with the developer</span>
            <div className='icns flex flex-row my-10 mb-20'>
-            <a href="https://twitter.com/Chandra_Bose31" target="_blank" rel="noopener noreferrer"><img src={twitter} alt="twt" className='mr-5' /></a>
-            <a href="https://github.com/chandrabosep" target="_blank" rel="noopener noreferrer"><img src={github} alt="git" className='mx-5'/></a>
-            <a href="https://www.linkedin.com/in/chandra-bose-p/" target="_blank" rel="noopener noreferrer"><img src={linkedin} alt="lkd" className='mx-5' /></a>
-            <a href="https://www.instagram.com/chandrabose.eth/" target="_blank" rel="noopener noreferrer"><img src={insta} alt="ins" className='mx-5' /></a>
+            <a href="https://x.com/0xronak077" target="_blank" rel="noopener noreferrer"><img src={twitter} alt="twt" className='mr-5' /></a>
+            <a href="https://github.com/ronakmaheshwari" target="_blank" rel="noopener noreferrer"><img src={github} alt="git" className='mx-5'/></a>
+            <a href="https://www.linkedin.com/in/rbm77" target="_blank" rel="noopener noreferrer"><img src={linkedin} alt="lkd" className='mx-5' /></a>
+            <a href="https://www.instagram.com/ronakmaheshwari.eth/" target="_blank" rel="noopener noreferrer"><img src={insta} alt="ins" className='mx-5' /></a>
 
             
             
